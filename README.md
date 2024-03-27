@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with **Frontend(UI Design)**
-
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **rohitkumarsaw752@gmail.com**
