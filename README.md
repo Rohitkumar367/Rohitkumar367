@@ -24,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-kumar-b3a1b2252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit kumar" height="30" width="40" /></a>
+<a href="https://twitter.com/Mr_D_DROID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohit kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_d_droid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_d_droid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohit_kumar_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit_kumar_10" height="30" width="40" /></a>
 </p>
