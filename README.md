@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rohitkumarsaw752@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DsepzoSx52LfJrm_9XvvJ1pKgdZotUyY/view?usp=drive_link](https://drive.google.com/file/d/1DsepzoSx52LfJrm_9XvvJ1pKgdZotUyY/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1onkCgX3LgAFZvjOCW4DFV8fhRRgjpk1k/view?usp=sharing](https://drive.google.com/file/d/1onkCgX3LgAFZvjOCW4DFV8fhRRgjpk1k/view?usp=sharing)
 
 - ⚡ Fun fact **I love immersing myself in learning and pushing the boundaries of what's possible in the Development world**
 
